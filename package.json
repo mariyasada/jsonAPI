@@ -1,0 +1,22 @@
+{
+  "name": "jsonapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariyasada/jsonAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariyasada/jsonAPI/issues"
+  },
+  "homepage": "https://github.com/mariyasada/jsonAPI#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
