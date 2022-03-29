@@ -1,7 +1,11 @@
 {
-    "notes":[{
-        "id":"1",
-        "title":"neog camp",
-        "content":"will end in june"
-    }]
+  "notes": [
+    {
+      "id": "1",
+      "title": "neog camp",
+      "content": "will end in june",
+      "color":"blue"
+    }
+    
+  ]
 }
