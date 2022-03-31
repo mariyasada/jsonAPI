@@ -6,7 +6,8 @@
       "content": "will end in june",
       "tag":"Home",
       "date":"23-09-2018",
-      "color":"LightGray"
+      "color":"LightGray",
+      "priority":"Low"
      
     }
     
