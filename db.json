@@ -4,12 +4,10 @@
       "id": "1",
       "title": "neog camp",
       "content": "will end in june",
-      "tag":"Home",
-      "date":"23-09-2018",
-      "color":"LightGray",
-      "preference":"Low"
-     
+      "tag": "Home",
+      "date": "23-09-2018",
+      "color": "LightGray",
+      "priority": "Low"
     }
-    
   ]
 }
