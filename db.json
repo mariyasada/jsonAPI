@@ -5,9 +5,18 @@
       "title": "neog camp",
       "content": "will end in june",
       "tag": "Home",
-      "date": "23-09-2018",
+      "date": "09/23/2018",
       "color": "LightGray",
       "priority": "Low"
+    },
+    {
+      "id": "2",
+      "title": "neog camp 1",
+      "content": "will end in june 1",
+      "tag": "Work",
+      "date": "10/02/2016",
+      "color": "LightBlue",
+      "priority": "Medium"
     }
   ]
 }
